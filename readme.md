@@ -51,7 +51,7 @@ Leftmost:  2001:0:0:db8::db8:1/64    (escolhe a sequência da esquerda)
 
 ### Execução:
 ```bash
-python calculadora_ipv6.py
+python calculator.py
 ```
 
 ### Menu Principal:
